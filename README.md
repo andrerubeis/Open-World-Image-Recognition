@@ -1,4 +1,4 @@
-# Open World Recognition in image classification 
+# Open World Recognition in Image Classification 
 One of the main obstacles to the spread of deep learning today is its restriction to closed world scenarios.
 However, several solutions have been proposed to address the problem: in this paper, we analyse some state-of-the-art methods capable of operating in an open world in image classification. 
 We apply slight variations to the best known methods and then propose some of our own modifications.
